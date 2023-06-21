@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.logo {
+  height: 20vh;
+}
+.google-img-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.input-element {
+  width: 35vw;
+  height: 5vh;
+}
+.search-icon {
+  height: 5vh;
+  margin-top: 0px;
+}
+.items-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.search-input-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 35px;
+}
+.searched-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
